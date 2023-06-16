@@ -1,0 +1,14 @@
+.wrapper {
+  background-color: #efefef;
+  border-radius: 15px;
+  padding: 15px 10px;
+  margin: 0 auto;
+  box-sizing: border-box;
+  height: 100%;
+}
+
+h4,h3,
+details, p,
+.no-margin {
+  margin: 0;
+}

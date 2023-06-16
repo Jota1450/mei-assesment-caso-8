@@ -1,0 +1,10 @@
+<div class="wrapper" *ngIf="people">
+  <h3><b>{{people.name}}</b></h3>
+  <p>Edad: {{people.age}}</p>
+  <p>Email: {{people.email}}</p>
+  <br>
+  <h4>Teléfonos</h4>
+  <ng-container *ngFor="let phone of people.phones">
+    <p class="no-margin"> {{ phone.number }} ({{ phone.type }}) </p>
+  </ng-container>
+</div>

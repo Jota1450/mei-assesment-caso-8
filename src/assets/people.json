@@ -1,0 +1,169 @@
+{
+  "Datos": [
+    {
+      "name": "Juan Perez",
+      "age": 30,
+      "phones": [
+        {
+          "type": "Celular",
+          "number": "+1 555-123-4567"
+        },
+        {
+          "type": "Casa",
+          "number": "+1 555-987-6543"
+        }
+      ],
+      "email": "juan.perez@example.com"
+    },
+    {
+      "name": "María Lopez",
+      "age": 25,
+      "phones": [
+        {
+          "type": "Celular",
+          "number": "+1 555-111-1111"
+        },
+        {
+          "type": "Trabajo",
+          "number": "+1 555-222-2222"
+        }
+      ],
+      "email": "maria.lopez@example.com"
+    },
+    {
+      "name": "Pedro Ramirez",
+      "age": 35,
+      "phones": [
+        {
+          "type": "Casa",
+          "number": "+1 555-333-3333"
+        },
+        {
+          "type": "Trabajo",
+          "number": "+1 555-444-4444"
+        }
+      ],
+      "email": "pedro.ramirez@example.com"
+    },
+    {
+      "name": "Ana Garcia",
+      "age": 28,
+      "phones": [
+        {
+          "type": "Celular",
+          "number": "+1 555-555-5555"
+        },
+        {
+          "type": "Casa",
+          "number": "+1 555-666-6666"
+        }
+      ],
+      "email": "ana.garcia@example.com"
+    },
+    {
+      "name": "Carlos Torres",
+      "age": 42,
+      "phones": [
+        {
+          "type": "Trabajo",
+          "number": "+1 555-777-7777"
+        },
+        {
+          "type": "Celular",
+          "number": "+1 555-888-8888"
+        }
+      ],
+      "email": "carlos.torres@example.com"
+    },
+    {
+      "name": "Laura Sanchez",
+      "age": 31,
+      "phones": [
+        {
+          "type": "Celular",
+          "number": "+1 555-999-9999"
+        },
+        {
+          "type": "Casa",
+          "number": "+1 555-000-0000"
+        }
+      ],
+      "email": "laura.sanchez@example.com"
+    },
+    {
+      "name": "Luis Torres",
+      "age": 29,
+      "phones": [
+        {
+          "type": "Celular",
+          "number": "+1 555-111-2222"
+        },
+        {
+          "type": "Trabajo",
+          "number": "+1 555-222-3333"
+        }
+      ],
+      "email": "luis.torres44@example.com"
+    },
+    {
+      "name": "Sofia Martinez",
+      "age": 27,
+      "phones": [
+        {
+          "type": "Casa",
+          "number": "+1 555-333-4444"
+        },
+        {
+          "type": "Trabajo",
+          "number": "+1 555-444-5555"
+        }
+      ],
+      "email": "sofia.martinez@example.com"
+    },
+    {
+      "name": "Diego Herrera",
+      "age": 33,
+      "phones": [
+        {
+          "type": "Celular",
+          "number": "+1 555-555-6666"
+        },
+        {
+          "type": "Casa",
+          "number": "+1 555-666-7777"
+        }
+      ],
+      "email": "diego.herrera@example.com"
+    },
+    {
+      "name": "Valentina Gomez",
+      "age": 24,
+      "phones": [
+        {
+          "type": "Celular",
+          "number": "+1 555-777-8888"
+        },
+        {
+          "type": "Trabajo",
+          "number": "+1 555-888-9999"
+        }
+      ],
+      "email": "valentina.gomez@example.com"
+    },
+    {
+      "name": "Andrés Rivera",
+      "age": 37,
+      "phones": [
+        {
+          "type": "Casa",
+          "number": "+1 555-999-0000"
+        },
+        {
+          "type": "Trabajo",
+          "number": "+1 555-000-1111"
+        }
+      ],
+      "email": "andres.rivera@example.com"
+    }
+  ]
+}
